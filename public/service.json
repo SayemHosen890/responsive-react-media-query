@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Replace Tire",
+        "price": 2000,
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "image": "https://i.ibb.co/kgHCjsB/female-mechanic-holding-spare-parts-car-1170-1615.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Replace Engine",
+        "price": 2000,
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "image": "https://i.ibb.co/kgHCjsB/female-mechanic-holding-spare-parts-car-1170-1615.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Replace Tube",
+        "price": 2000,
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "image": "https://i.ibb.co/kgHCjsB/female-mechanic-holding-spare-parts-car-1170-1615.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Replace Light",
+        "price": 2000,
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "image": "https://i.ibb.co/kgHCjsB/female-mechanic-holding-spare-parts-car-1170-1615.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Replace Gier",
+        "price": 2000,
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "image": "https://i.ibb.co/kgHCjsB/female-mechanic-holding-spare-parts-car-1170-1615.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Replace Wheel",
+        "price": 2000,
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "image": "https://i.ibb.co/kgHCjsB/female-mechanic-holding-spare-parts-car-1170-1615.jpg"
+    }
+]
